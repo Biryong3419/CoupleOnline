@@ -1,0 +1,16 @@
+﻿  couple.cpp
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(76): warning C4101: 'wsaData' :참조되지 않은 지역 변수입니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(80): warning C4101: 'hThread' :참조되지 않은 지역 변수입니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(78): warning C4101: 'serverAddr' :참조되지 않은 지역 변수입니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(77): warning C4101: 'serverSock' :참조되지 않은 지역 변수입니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(77): warning C4101: 'clientSock' :참조되지 않은 지역 변수입니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(79): warning C4101: 'clientAddrSize' :참조되지 않은 지역 변수입니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(78): warning C4101: 'clientAddr' :참조되지 않은 지역 변수입니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(431): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(431): warning C4309: '초기화 중': 상수 값이 잘립니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(532): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(532): warning C4309: '초기화 중': 상수 값이 잘립니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(577): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+c:\users\cu\github\couplegame\1차프로젝트\couple\couple\couple.cpp(577): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  couple.vcxproj -> C:\Users\cu\github\couplegame\1차프로젝트\couple\Debug\couple.exe
+  couple.vcxproj -> C:\Users\cu\github\couplegame\1차프로젝트\couple\Debug\couple.pdb (Full PDB)
